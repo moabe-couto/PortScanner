@@ -1,0 +1,21 @@
+========================
+RELATÓRIO DE SCAN
+========================
+
+IP: 10.67.138.134
+
+Data do scan: 2026-06-24 14:29:36.150946
+
+PORTAS ABERTAS:
+
+Total encontradas: 2
+
+Porta 22 - SSH
+Porta 80 - HTTP
+
+BANNERS ENCONTRADDOS:
+
+Porta 22
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.13
+
+----------------------
