@@ -33,9 +33,9 @@ No terminal:
 ```bash
 python scanner.py
 
-```md
+md
 ## 📷 Demonstração
 
 Execução da ferramenta:
 
-![Execução do Port Scanner](exemplo.jpg)
+![Execução do Port Scanner](image-scan.jpg)
