@@ -32,6 +32,7 @@ No terminal:
 
 ```bash
 python scanner.py
+```
 
 md
 ## 📷 Demonstração
